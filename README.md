@@ -60,4 +60,4 @@ La [Fundación para la Libertad de Prensa en Colombia](http://www.flip.org.co/) 
 
 Puedes bajar un APK pre-compilado aquí:
 
-[Hancel](https://github.com/juanjcsr/Hancel/blob/master/hancel-project/bin/Login.apk?raw=true)
+[Hancel](https://github.com/juanjcsr/Hancel/blob/master/hancel-project/bin/Login.apk)
